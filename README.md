@@ -39,11 +39,10 @@ Start adding your income and expenses!
 
 The main objective of this project is to develop a simple expense management system that allows users to track their income and expenses effectively. It helps users understand their spending patterns and improve their financial management skills.
 
-📸 Screenshots
+📸 Screenshots Output :
 
+<img width="959" height="539" alt="Screenshot 2026-11-05 215515" src="https://github.com/user-attachments/assets/b47d2cb7-4197-48f4-867b-b37ebd522dc3" />
 
-
-Output :
 
 🔮 Future Improvements
 Add monthly and yearly expense reports.
@@ -53,8 +52,10 @@ Implement user authentication.
 Improve mobile responsiveness.
 Add data export functionality.
 👨‍💻 Author
-
-Prabhat Sha
+Rupam Karmakar
+Prabhat Shaw
+Rishav Giri
+Surajit Shit
 
 GitHub: Your GitHub Profile
 
