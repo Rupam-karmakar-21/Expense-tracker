@@ -54,7 +54,7 @@ Improve mobile responsiveness.
 Add data export functionality.
 👨‍💻 Author
 
-Your Name
+Prabhat Sha
 
 GitHub: Your GitHub Profile
 
