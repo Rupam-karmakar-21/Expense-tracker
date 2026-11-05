@@ -1,2 +1,62 @@
-# Expense-tracker
-The Expense Tracker is a Python-based application designed to help users manage and monitor their daily expenses efficiently. It allows users to record income and expenses, categorize transactions, calculate total spending, and track their remaining balance
+💰 Expense Tracker
+
+A simple and user-friendly Expense Tracker Web Application built using HTML, CSS, and JavaScript. This project helps users manage their daily expenses, track their spending habits, and maintain better control over their personal finances.
+
+🚀 Features
+➕ Add new income and expense transactions.
+📝 View transaction history.
+🗑️ Delete transactions.
+💵 Calculate total income.
+📉 Calculate total expenses.
+💰 Display available balance.
+📊 Track and manage daily spending.
+🎨 Simple and responsive user interface.
+🛠️ Technologies Used
+HTML5 – For creating the structure of the application.
+CSS3 – For styling and designing the user interface.
+JavaScript – For implementing functionality and expense calculations.
+📂 Project Structure
+text
+Expense-Tracker/
+│
+├── index.html       # Main HTML file
+├── style.css        # CSS styling file
+├── script.js        # JavaScript functionality
+└── README.md        # Project documentation
+
+⚙️ How to Run the Project
+Clone this repository:
+bash
+git clone https://github.com/your-username/Expense-Tracker.git
+
+Navigate to the project folder:
+bash
+cd Expense-Tracker
+
+Open the index.html file in your web browser.
+Start adding your income and expenses!
+🎯 Project Objective
+
+The main objective of this project is to develop a simple expense management system that allows users to track their income and expenses effectively. It helps users understand their spending patterns and improve their financial management skills.
+
+📸 Screenshots
+
+Add your project screenshots here to showcase the application's user interface.
+
+markdown
+![Expense Tracker Screenshot](screenshots/homepage.png)
+
+🔮 Future Improvements
+Add monthly and yearly expense reports.
+Include expense categories and filters.
+Add graphical representations of expenses.
+Implement user authentication.
+Improve mobile responsiveness.
+Add data export functionality.
+👨‍💻 Author
+
+Your Name
+
+GitHub: Your GitHub Profile
+
+⭐ If you like this project, don't forget to give it a star on GitHub!
