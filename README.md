@@ -60,11 +60,16 @@ Add graphical representations of expenses.
 Implement user authentication.
 Improve mobile responsiveness.
 Add data export functionality.
-👨‍💻 Author
+👨‍💻 Authors:
+
 Rupam Karmakar
+
 Prabhat Shaw
+
 Rishav Giri
+
 Surajit Shit
+
 
 GitHub: Your GitHub Profile
 
