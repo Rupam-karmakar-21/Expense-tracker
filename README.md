@@ -41,10 +41,9 @@ The main objective of this project is to develop a simple expense management sys
 
 📸 Screenshots
 
-Add your project screenshots here to showcase the application's user interface.
 
-markdown
-![Expense Tracker Screenshot](screenshots/homepage.png)
+
+Output :
 
 🔮 Future Improvements
 Add monthly and yearly expense reports.
