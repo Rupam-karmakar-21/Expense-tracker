@@ -1,68 +1,108 @@
-💰 Expense Tracker
+# 💰 Little Ledger – Everyday Expense Manager
 
-A simple and user-friendly Expense Tracker Web Application built using HTML, CSS, and JavaScript. This project helps users manage their daily expenses, track their spending habits, and maintain better control over their personal finances.
+**Little Ledger** is a simple and user-friendly expense management web application built using Python and Flask. It helps students and families track their daily expenses, manage monthly budgets, and understand their spending habits.
 
-🚀 Features
-➕ Add new income and expense transactions.
-📝 View transaction history.
-🗑️ Delete transactions.
-💵 Calculate total income.
-📉 Calculate total expenses.
-💰 Display available balance.
-📊 Track and manage daily spending.
-🎨 Simple and responsive user interface.
-🛠️ Technologies Used
-HTML5 – For creating the structure of the application.
-CSS3 – For styling and designing the user interface.
-JavaScript – For implementing functionality and expense calculations.
-📂 Project Structure
-text
-Expense-Tracker/
+## 🚀 Features
+
+- 👨‍🎓 Student Mode and Family Mode
+- 💵 Add, Edit and Delete Expenses
+- 📊 Monthly Spending Summary
+- 📅 Weekly Expense Tracking
+- 📈 Category-wise Expense Breakdown
+- 🎯 Monthly Budget Management
+- 🔍 Search and Filter Expenses
+- 📥 Export Expense Records to CSV
+- 🌙 Light and Dark Mode
+- 💾 SQLite Database Storage
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+  ##Project Screenshorts:
+
+   <img width="928" height="161" alt="WhatsApp Image 2026-11-06 at 11 35 38 PM" src="https://github.com/user-attachments/assets/25f63475-a1ab-47e1-8488-936f370d6790" />
+
+   <img width="935" height="587" alt="WhatsApp Image 2026-11-06 at 11 35 57 PM" src="https://github.com/user-attachments/assets/3ba9598c-11f7-4f69-a234-1d78a6d2ca21" />
+
+   <img width="940" height="313" alt="WhatsApp Image 2026-11-06 at 11 36 20 PM" src="https://github.com/user-attachments/assets/e4cba60f-b0f6-47c8-b564-730d5901ce06" />
+
+   <img width="927" height="507" alt="WhatsApp Image 2026-11-06 at 11 36 45 PM" src="https://github.com/user-attachments/assets/71c77e6c-3c4e-414a-a44b-09a44825cc48" />
+
+   <img width="931" height="853" alt="WhatsApp Image 2026-11-06 at 11 37 07 PM" src="https://github.com/user-attachments/assets/73430686-e24b-429a-bfb9-15fdd97362f1" />
+
+
+## 📂 Project Structure
+
+```text
+Little-Ledger/
 │
-├── index.html       # Main HTML file
-├── style.css        # CSS styling file
-├── script.js        # JavaScript functionality
-└── README.md        # Project documentation
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
-⚙️ How to Run the Project
-Clone this repository:
-bash
-git clone https://github.com/your-username/Expense-Tracker.git
+## ⚙️ Installation and Setup
 
-Navigate to the project folder:
-bash
-cd Expense-Tracker
+**Step 1: Clone the repository**
 
-Open the index.html file in your web browser.
-Start adding your income and expenses!
-🎯 Project Objective
+```bash
+git clone YOUR_REPOSITORY_URL
+```
 
-The main objective of this project is to develop a simple expense management system that allows users to track their income and expenses effectively. It helps users understand their spending patterns and improve their financial management skills.
+**Step 2: Open the project folder**
 
-📸 Screenshots Output :
+```bash
+cd Little-Ledger
+```
 
+**Step 3: Install dependencies**
 
+```bash
+pip install -r requirements.txt
+```
 
+**Step 4: Run the application**
 
+```bash
+python app.py
+```
 
-🔮 Future Improvements
-Add monthly and yearly expense reports.
-Include expense categories and filters.
-Add graphical representations of expenses.
-Implement user authentication.
-Improve mobile responsiveness.
-Add data export functionality.
-👨‍💻 Authors:
+**Step 5: Open in your browser**
 
+```text
+http://127.0.0.1:5000
+```
+
+## 🗄️ Database
+
+The application uses SQLite to store expense records and user settings. The database is automatically created when the application runs for the first time.
+
+## 🎯 Project Objective
+
+The main objective of Little Ledger is to make expense tracking simple, organized, and accessible. It helps students and families manage their daily spending and maintain better financial habits.
+
+## 👨‍💻 Developer
+
+**Developed by:** 
 Rupam Karmakar
-
-Prabhat Shaw
-
+Prabhat Kumar
 Rishav Giri
-
 Surajit Shit
 
+**University:** Brainware University
 
-GitHub: Your GitHub Profile
+**Department:** Bachelor of Computer Applications (BCA)
 
-⭐ If you like this project, don't forget to give it a star on GitHub!
+---
+
+⭐ If you find this project useful, don't forget to give it a star on GitHub!
+
+**Thank you for visiting Little Ledger!**
