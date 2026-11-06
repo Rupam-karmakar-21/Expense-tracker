@@ -41,15 +41,7 @@ The main objective of this project is to develop a simple expense management sys
 
 📸 Screenshots Output :
 
-<img width="959" height="522" alt="Screenshot 2026-11-05 215012" src="https://github.com/user-attachments/assets/d465f3a1-7384-40f2-94cb-022505ba8f40" />
 
-<img width="959" height="539" alt="Screenshot 2026-11-05 215119" src="https://github.com/user-attachments/assets/47e7ef4d-e2d4-45f5-a470-ce058067863d" />
-
-<img width="959" height="539" alt="Screenshot 2026-11-05 215207" src="https://github.com/user-attachments/assets/bed19f04-e599-43a7-8dfe-0157237d381d" />
-
-<img width="959" height="539" alt="Screenshot 2026-11-05 215503" src="https://github.com/user-attachments/assets/0587663f-bb57-4f32-a4d7-f7c0566468ee" />
-
-<img width="959" height="539" alt="Screenshot 2026-11-05 215515" src="https://github.com/user-attachments/assets/b47d2cb7-4197-48f4-867b-b37ebd522dc3" />
 
 
 
