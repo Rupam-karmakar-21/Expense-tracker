@@ -92,9 +92,13 @@ The main objective of Little Ledger is to make expense tracking simple, organize
 ## 👨‍💻 Developer
 
 **Developed by:** 
+
 Rupam Karmakar
+
 Prabhat Kumar
+
 Rishav Giri
+
 Surajit Shit
 
 **University:** Brainware University
